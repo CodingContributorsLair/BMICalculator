@@ -2,7 +2,7 @@
 
 ### This repo has been made to host a BMI Calculator. 
 
-### This is a BMI Calculator that is made specifically made for adults, but it needs YOUR CONTRIBUTIONS!
+### This is a BMI Calculator that is made specifically made for adults, but it needs YOUR CONTRIBUTIONS!!!
 
 # How to contribute:
 
