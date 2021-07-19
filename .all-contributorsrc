@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "CodingSpecies",
+      "name": "CodingSpecies",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70807500?v=4",
+      "profile": "https://codingspecies.github.io/MeAndMyApps/",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "BMICalculator",
+  "projectOwner": "CodingContributorsLair",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
