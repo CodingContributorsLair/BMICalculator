@@ -1,25 +1,24 @@
 * {
   font-family: Quicksand;
   font-size: 24;
-  color: #333
 }
 
 body {
-  margin: 0;
-  height: 100vh;
-  padding: 0;
-  border: 0;
-  background: linear-gradient(to bottom right, #99ff99, #66ffcc, #00ccff);
+ background-image: url('https://freerangestock.com/thumbnail/136489/heartbeat--beating-heart.jpg');
+ background-size: cover;
+ background-attachment: fixed;
+ background-repeat: no-repeat;
+ background-size: cover;
 }
 
 .form {
-  background-color: #99ffcc;
+  background-color: palegoldenrod;
   height: 250px;
   width: 500px;
   border-radius: 20px;
   margin: 20px auto 20px auto;
   display: block;
-  border: solid 1px #289df6;
+  border: solid 1px black;
   box-shadow: 0 0 40px 0 #ddd;
 }
 
@@ -62,7 +61,7 @@ text-input:hover {
   border-radius: 10px;
   height: 40px;
   width: 140px;
-  background-color: #289df6;
+  background-color: brown;
   color:#fff;
   margin: auto;
   display: block;
@@ -71,7 +70,7 @@ text-input:hover {
 }
 
 #submit:hover{
-  background-color: #0a8ef2;
+  background-color: black;
 }
 
 .text {
@@ -122,7 +121,7 @@ h1 {
   font-size: 30px;
   font-weight: 300;
   text-align: center;
-  color: #0000ff;
+  color: peachpuff;
   padding-top: 15px;
   display: block;
 }
@@ -131,7 +130,7 @@ h2 {
   font-size: 22px;
   font-weight: 300;
   text-align: center;
-  
+  color:white;
 }
 
 h3 {
@@ -139,19 +138,20 @@ h3 {
   font-weight: 300;
   text-align: center;
   padding: 15px;
+  color: white;
 }
 
 h3 b {
   font-size: 32px;
   font-weight: 300;
-  color: #0000ff;
+  color: peachpuff;
   text-align: center;
 }
 
 h4 {
   font-size: 20px;
   font-weight: 300;
-  color: black;
+  color: white;
   text-align: center;
 }
 
@@ -159,7 +159,7 @@ h4 b {
   font-size: 27px;
   font-weight: 300;
   text-align: center;
-  color: #0000ff;
+  color: peachpuff;
 }
 
 checkmark:after{
