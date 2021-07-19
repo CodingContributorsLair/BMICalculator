@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=47F763&size=30&lines=AvidCoder's+BMI+Calculator!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=47F763&size=30&lines=Our+BMI+Calculator!)
 
 ### This repo has been made to host a BMI Calculator. 
 
