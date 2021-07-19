@@ -1,8 +1,11 @@
-# Welcome to my BMICalculator!
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=47F763&size=30&lines=AvidCoder's+BMI+Calculator!)
 
-### This repo has been made to host a BMI Calculator. If you would like to have a go by making your own BMI Calculator and add a contribution by making a Pull Request, please do so. I have used CodePen to help me make this website.
+#### This repo has been made to host a BMI Calculator. 
 
-![website image](https://user-images.githubusercontent.com/70807684/123509440-79500a00-d66d-11eb-805a-bbd89d982564.png)
+#### This is a BMI Calculator that is made specifically made for adults, but it needs YOUR CONTRIBUTIONS!
 
+#### For example, perhaps try making a kid's BMI Calculator?
 
-### If you like this, please give it a 🌟
+#### If you have, feel free to make a PR, and I would be happy to review and ***hopefully*** merge your PR and your work would feature on my website!
+
+### If you like this, don't just 🌟, give it a fork 🍴!
