@@ -1,10 +1,10 @@
-<html>
+<html lang="en">
 <head>
     <link rel= "stylesheet" href= "./index.css">
     <link href= "https://fonts.googleapis.com/css?family=Quicksand:400,700" rel= "stylesheet">
     <link rel= "icon" href= "https://image.flaticon.com/icons/png/128/3373/3373123.png" sizes="16x16">
     <title> BMI Calculator </title>
-    
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
 </head>
 
 <body>
@@ -12,10 +12,11 @@
     <h4>This BMI Calculator is designed for adults who are willing to check their BMI and how healthy they are.This will calculate whether your weight is healthy for your age, gender and height. Please input all of the details below in order to find out your BMI and whether your weight is <b>Underweight, Healthy, Overweight, Obese or Extremely Obese</b></h4>
     <form class= "form" id= "form" onsubmit="return validateForm()">
         <div class= "row-one">
-            <input type= "text" class= "text-input" id= "age" autocomplete="off" required>
+	        <label for="age"></label><input type= "text" class= "text-input" id= "age" autocomplete="off" required>
             <p class= "text">Age</p>
             <label class= "container">
-                <input type= "radio" id= "f"><p class= "text">Female</p>
+                <input type= "radio" name= "radio" id= "f">
+	            <p class= "text">Female</p>
                 <span class= "checkmark"></span>
             </label>
             <label class="container">
@@ -26,16 +27,13 @@
         </div>
         
         <div class= "row-two">
-            <input type= "text" class= "text-input" id= "height"  autocomplete= "off" required>
+	        <label for="height"></label><input type= "text" class= "text-input" id= "height" autocomplete= "off" required>
             <p class= "text">Height (cm)</p>
-            <input type= "text" class= "text-input" id= "weight" autocomplete="off" required>
+	        <label for="weight"></label><input type= "text" class= "text-input" id= "weight" autocomplete="off" required>
             <p class= "text">Weight (kg)</p>
         </div>
         <button type= "button" id= "submit">Submit</button>
     </form>
-    <script src= './index.js'>
-        
-
-    </script>
+    <script src= './index.js' type="text/javascript"></script>
 </body> 
 </html>
