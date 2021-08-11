@@ -49,6 +49,16 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "dipeshbabu",
+      "name": "Dipesh Babu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59379458?v=4",
+      "profile": "https://github.com/dipeshbabu",
+      "contributions": [
+        "bug",
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
