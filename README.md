@@ -55,7 +55,6 @@
 
 ![image](https://user-images.githubusercontent.com/70807684/126149311-2d4a589e-e454-4346-b9dd-7a6692115896.png)
 
-
 ### 6. Make a pull request :
 
 #### Go back to your remote Forked version of the repo and click : 
@@ -69,14 +68,6 @@
 #### And that's it!
 
 ### If you like this repo, give it a 🌟
-
-
-
-
-
-
-
-
 
 ## Contributors ✨
 
