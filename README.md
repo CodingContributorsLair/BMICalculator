@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=47F763&size=30&lines=Our+BMI+Calculator!)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ### This repo has been made to host a BMI Calculator. Originally from [AvidCoder101's BMICalculator](https://github.com/AvidCoder101/BMICalculator)
@@ -85,6 +85,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://thuongtruong1009.glitch.me/"><img src="https://avatars.githubusercontent.com/u/71834167?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tran Nguyen Thuong Truong</b></sub></a><br /><a href="#content-thuongtruong1009" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/dipeshbabu"><img src="https://avatars.githubusercontent.com/u/59379458?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dipesh Babu</b></sub></a><br /><a href="https://github.com/CodingContributorsLair/BMICalculator/issues?q=author%3Adipeshbabu" title="Bug reports">🐛</a> <a href="#content-dipeshbabu" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/kmertzim"><img src="https://avatars.githubusercontent.com/u/32485861?v=4?s=100" width="100px;" alt=""/><br /><sub><b>kmertzim</b></sub></a><br /><a href="#content-kmertzim" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/sumitmukharjeeeeee"><img src="https://avatars.githubusercontent.com/u/59107641?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sumit Mukharjee</b></sub></a><br /><a href="#content-sumitmukharjeeeeee" title="Content">🖋</a></td>
   </tr>
 </table>
 
