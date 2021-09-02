@@ -6,7 +6,7 @@ let female = document.getElementById("f");
 let form = document.getElementById("form");
 
 function validateForm() {
-    if (age.value === '' || height.value === '' || weight.value === '' || (male.checked === false && female.checked === false)){
+    if (age.value === '' || height.value === '' || weight.value === '' || (male.checked === false && female.checked === false)) {
         alert("Please fill in all of the fields!");
         document.getElementById("submit").removeEventListener("click", countBmi);
     }
@@ -17,33 +17,33 @@ function validateForm() {
 
 document.getElementById("submit").addEventListener("click", validateForm);
 
-function countBmi(){
+function countBmi() {
     let a = [age.value, height.value, weight.value];
-    if (male.checked){
+    if (male.checked) {
         a.push("male");
     }
-    else if (female.checked){
+    else if (female.checked) {
         a.push("female");
     }
 
     form.reset();
-    let bmi = Number(a[2])/(Number(a[1])/100*Number(a[1])/100);
+    let bmi = Number(a[2]) / (Number(a[1]) / 100 * Number(a[1]) / 100);
 
     let result = '';
 
-    if (bmi < 18.5){
+    if (bmi < 18.5) {
         result = 'Underweight';
     }
-    else if (18.5 <= bmi && bmi <= 24.9){
+    else if (18.5 <= bmi && bmi <= 24.9) {
         result = 'Healthy';
     }
-    else if (25 <= bmi && bmi <= 29.9){
+    else if (25 <= bmi && bmi <= 29.9) {
         result = 'Overweight';
     }
-    else if (30 <= bmi && bmi <= 34.9){
+    else if (30 <= bmi && bmi <= 34.9) {
         result = 'Obese';
     }
-    else if (35 <= bmi){
+    else if (35 <= bmi) {
         result = 'Extremely obese';
     }
 
@@ -64,3 +64,5 @@ function countBmi(){
     document.getElementById("submit").removeEventListener("click", validateForm);
 }
 document.getElementById("submit").addEventListener("click", countBmi);
+
+
