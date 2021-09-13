@@ -76,7 +76,7 @@ body {
     box-shadow: gray;
     transform: translateY(4px);
 }
-#Clear {
+#clear {
     border: none;
     border-radius: 10px;
     height: 40px;
@@ -261,4 +261,16 @@ h4 b {
 
 .marginBot{
     margin-bottom:20px !important;
+}
+
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+
+input[type=number] {
+    -moz-appearance: textfield;
 }
