@@ -18,7 +18,7 @@
     <form class="form" id="form" onsubmit="return validateForm()" >
         <div class="newForm">
             <div class="newFormItem">
-                <label for="age"></label><input type="text" class="text-input" id="age" autocomplete="off" required>
+                <label for="age"></label><input type="number" class="text-input" id="age" autocomplete="off" required>
                 <p class="">Age</p>
             </div>
             <div class="newFormItem">
@@ -36,17 +36,20 @@
             </div>
 
             <div class="newFormItem">
-                <label for="height"></label><input type="text" class="text-input" id="height" autocomplete="off" required>
+                <label for="height"></label><input type="number" class="text-input" id="height" autocomplete="off" required>
                 <p class="">Height (cm)</p>
             </div>
             <div class="newFormItem">
-                <label for="weight"></label><input type="text" class="text-input" id="weight" autocomplete="off" required>
+                <label for="weight"></label><input type="number" class="text-input" id="weight" autocomplete="off" required>
                 <p class="">Weight (kg)</p>
             </div>
         </div>
         <button class="center marginBot" type="button" id="submit">Submit</button>
-        <button class="center marginBot" type="reset"  id="Clear">Clear</button>
+        <button class="center marginBot" type="reset"  id="clear">Clear</button>
     </form>
+
+    <div id="results"></div>
+
     <script src="index.js">
         
     </script>

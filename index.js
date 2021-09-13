@@ -5,9 +5,14 @@ let male = document.getElementById("m");
 let female = document.getElementById("f");
 let form = document.getElementById("form");
 
+document.getElementById("submit").addEventListener("click", validateForm);
+
+document.getElementById("clear").addEventListener("click", resetForm);
+
 function validateForm() {
-    if (age.value === '' || height.value === '' || weight.value === '' || (male.checked === false && female.checked === false)) {
-        alert("Please fill in all of the fields!");
+    temp = checkValidations();
+    if (temp) {
+        alert(temp);
         document.getElementById("submit").removeEventListener("click", countBmi);
     }
     else {
@@ -15,9 +20,34 @@ function validateForm() {
     }
 }
 
-document.getElementById("submit").addEventListener("click", validateForm);
+function checkValidations() {
+    temp = false;
+    if (age.value === '' || height.value === '' || weight.value === '' || (male.checked === false && female.checked === false)) {
+        temp = 'Please fill in all of the fields!';
+    }
+    else if (age.value <= 0 || height.value <= 0 || weight.value <= 0) {
+        temp = 'Fields can not have negative or zero values';
+    }
+    else if (age.value < 18) {
+        temp = 'You must be 18 years old or above';
+    }
+    return temp;
+}
+
+function clearResults() {
+    const parent = document.getElementById('results');
+    while (parent.firstChild) {
+        parent.firstChild.remove();
+    }
+}
+
+function resetForm() {
+    form.reset();
+    clearResults();
+}
 
 function countBmi() {
+    clearResults();
     let a = [age.value, height.value, weight.value];
     if (male.checked) {
         a.push("male");
@@ -26,7 +56,7 @@ function countBmi() {
         a.push("female");
     }
 
-    form.reset();
+    
     let bmi = Number(a[2]) / (Number(a[1]) / 100 * Number(a[1]) / 100);
 
     let result = '';
@@ -58,11 +88,10 @@ function countBmi() {
     h2.appendChild(c);
     h2.appendChild(d);
 
-    document.body.appendChild(h1);
-    document.body.appendChild(h2);
-    document.getElementById("submit").removeEventListener("click", countBmi);
-    document.getElementById("submit").removeEventListener("click", validateForm);
+    document.getElementById('results').appendChild(h1);
+    document.getElementById('results').appendChild(h2);
+  
 }
-document.getElementById("submit").addEventListener("click", countBmi);
+
 
 
