@@ -1,9 +1,9 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=47F763&size=30&lines=Our+BMI+Calculator!)
+## CodingContributorsLair Basic-Mini-Apps - BMICalculator
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-### This repo has been made to host a BMI Calculator. Originally from [AvidCoder101's BMICalculator](https://github.com/AvidCoder101/BMICalculator)
+### This is our BMICalculator, originally [AvidCoder101's BMICalculator](https://github.com/AvidCoder101/BMICalculator). This is made for beginners, and is part of our Basic-Mini-Apps Collection.
 
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
 
