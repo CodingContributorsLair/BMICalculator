@@ -74,23 +74,23 @@ function countBmi()
 
     if (bmi < 18.5) 
     { 
-        result = 'You are Underweight !!! Try to have Healthy food';
+        result = 'You are Underweight! In order to maintain a healthy BMI try to add more nutrient rich food in your diet';
     }
     else if (18.5 <= bmi && bmi <= 24.9) 
     {
-        result = 'Congrats !!!!! You are Healthy !!! ';
+        result = 'Congrats, You are Healthy! In order to maintain a healthy BMI, keep exercising and have balanced diet';
     }
     else if (25 <= bmi && bmi <= 29.9) 
     {
-        result = 'You are Overweight !!! Try not to have Junk Foods';
+        result = 'You are Overweight! In order to maintain a healthy BMI, try eating less processed food and begin a healthy diet and exercise more';
     }
     else if (30 <= bmi && bmi <= 34.9) 
     {
-        result = 'You are Obese !!! Avoid junk foods';
+        result = 'You are Obese! In order to maintain a healthy BMI, you should start having a balanced diet, avoid processed and junk food and execise more ';
     }
     else if (35 <= bmi) 
     {
-        result = 'You are Extremely obese !!! Say No to junk Foods';
+        result = 'You are Extremely obese! This is extremely dangerous for your health, in order to maintain a healthy BMI, you should start having a balanced diet, avoid processed and junk food and execise more. Moverover seek support from a doctor';
     }
 
     let h1 = document.createElement("h1");
