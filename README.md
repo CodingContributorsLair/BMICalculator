@@ -1,6 +1,6 @@
 ## CodingContributorsLair Basic-Mini-Apps - BMICalculator
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ### This is our BMICalculator, originally [AvidCoder101's BMICalculator](https://github.com/AvidCoder101/BMICalculator). This is made for beginners, and is part of our Basic-Mini-Apps Collection.
@@ -91,6 +91,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/sumitmukharjeeeeee"><img src="https://avatars.githubusercontent.com/u/59107641?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sumit Mukharjee</b></sub></a><br /><a href="#content-sumitmukharjeeeeee" title="Content">🖋</a></td>
+    <td align="center"><a href="http://devikamanoj.github.io/"><img src="https://avatars.githubusercontent.com/u/75873151?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Devika </b></sub></a><br /><a href="#content-devikamanoj" title="Content">🖋</a></td>
   </tr>
 </table>
 
