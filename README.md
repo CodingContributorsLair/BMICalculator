@@ -1,8 +1,8 @@
 ## Basic-Mini-App - BMICalculator
 
-![HTML](https://img.shields.io/badge/html-orange?logo=html)
-![CSS](https://img.shields.io/badge/css-indigo?logo=css)
-![JS](https://img.shields.io/badge/javascript-yellow?logo=javascript)
+![HTML](https://img.shields.io/badge/html-white?logo=html5)
+![CSS](https://img.shields.io/badge/css-blue?logo=css)
+![JS](https://img.shields.io/badge/javascript-grey?logo=javascript)
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodingContributorsLair&repo=BMICalculator&theme=tokyonight">
