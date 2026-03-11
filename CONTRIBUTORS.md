@@ -2,4 +2,3 @@
 
 - ### [AvidCoder101](https://github.com/AvidCoder101)
 - ### [JayantGoel001](https://github.com/JayantGoel001)
-- ### [RN-Akash](https://github.com/rn-akash)
