@@ -12,8 +12,6 @@
 
  This is a BMI Calculator that is made specifically made for adults, but you can still contribute. If you need help, follow the steps below. Remember, contributions to any of our repos = invitation.
 
-# How to contribute: [See Docs](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project)
-
 #### Here are some ideas on what to do:
 
 - #### Improve the README
@@ -24,6 +22,8 @@
 ### If you like this repo, give it a 🌟
 
 ## Contributors ✨
+
+### How to contribute: [See Docs](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project)
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
