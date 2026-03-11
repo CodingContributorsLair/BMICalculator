@@ -3,13 +3,15 @@
 ### This is our BMICalculator, originally [AvidCoder101's BMICalculator](https://github.com/AvidCoder101/BMICalculator). This is made for beginners, and is part of our Basic-Mini-Apps Collection.
 
 ## 📊 GitHub Stats
-<p>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodingContributorsLair&repo=BMICalculator&theme=tokyonight">
 </p>
 
  This is a BMI Calculator that is made specifically made for adults, but you can still contribute. If you need help, follow the steps below. Remember, contributions to any of our repos = invitation.
 
-# How to contribute: [See Docs]("https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project)
+ [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
+
+# How to contribute: [See Docs](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project)
 
 #### Here are some ideas on what to do:
 
