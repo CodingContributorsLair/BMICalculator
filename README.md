@@ -1,7 +1,9 @@
 ## Basic-Mini-App - BMICalculator
 
- [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
- 
+![HTML](https://img.shields.io/badge/html-orange?logo=html)
+![CSS](https://img.shields.io/badge/css-indigo?logo=css)
+![JS](https://img.shields.io/badge/javascript-yellow?logo=javascript)
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodingContributorsLair&repo=BMICalculator&theme=tokyonight">
 </p>
