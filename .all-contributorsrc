@@ -86,6 +86,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "akash",
+      "name": "Akash",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109333083?v=4",
+      "profile": "http://akash562.github.io/",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
