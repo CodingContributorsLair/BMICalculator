@@ -88,11 +88,12 @@
       ]
     },
     {
-      "login": "akash",
+      "login": "RN-Akash",
       "name": "Akash",
       "avatar_url": "https://avatars.githubusercontent.com/u/109333083?v=4",
-      "profile": "http://akash562.github.io/",
+      "profile": "http://RN-Akash.github.io/",
       "contributions": [
+        "bug",
         "content"
       ]
     }

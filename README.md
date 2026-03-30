@@ -4,13 +4,9 @@
 ![CSS](https://img.shields.io/badge/css-blue?logo=css)
 ![JS](https://img.shields.io/badge/javascript-grey?logo=javascript)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CodingContributorsLair&repo=BMICalculator&theme=tokyonight">
-</p>
-
 ### This is our BMICalculator, originally [AvidCoder101's BMICalculator](https://github.com/AvidCoder101/BMICalculator). This is made for beginners, and is part of our Basic-Mini-Apps Collection.
 
- This is a BMI Calculator that is made specifically made for adults, but you can still contribute. If you need help, follow the steps below. Remember, contributions to any of our repos = invitation.
+This is a BMI Calculator that is made specifically made for adults, but you can still contribute. If you need help, follow the steps below. Remember, contributions to any of our repos = invitation.
 
 #### Here are some ideas on what to do:
 
@@ -43,12 +39,12 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/sumitmukharjeeeeee"><img src="https://avatars.githubusercontent.com/u/59107641?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sumit Mukharjee</b></sub></a><br /><a href="#content-sumitmukharjeeeeee" title="Content">🖋</a></td>
     <td align="center"><a href="http://devikamanoj.github.io/"><img src="https://avatars.githubusercontent.com/u/75873151?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Devika </b></sub></a><br /><a href="#content-devikamanoj" title="Content">🖋</a></td>
+    <td align="center"><a href="http://RN-Akash.github.io/"><img src="https://avatars.githubusercontent.com/u/109333083?s=100" width="100px;" alt=""/><br /><sub><b>Akash </b></sub></a><br /><a href="#content-RN-Akash" title="Content">👨‍💻</a></td>
   </tr>
 </table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
-
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
