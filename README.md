@@ -10,10 +10,10 @@ This is a BMI Calculator that is made specifically made for adults, but you can 
 
 #### Here are some ideas on what to do:
 
-> Improve the README
-> Change some of the styling
-> Improve the webpage
-> Make a child BMI Calculator
+- Improve the README
+- Change some of the styling
+- Improve the webpage
+- Make a child BMI Calculator
 
 ### If you like this repo, give it a 🌟
 
